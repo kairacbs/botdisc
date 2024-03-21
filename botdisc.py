@@ -29,4 +29,4 @@ async def on_message(message):
         except asyncio.TimeoutError:
             await message.channel.send("Você demorou muito para responder. Tente novamente mais tarde.")
 
-bot.run('MTIxOTM0ODEzNTk2OTgyMDgwNQ.GKIUO5.APupWAeZAd4DR7akM7Plzkj-0jlNr9cRAsRMhA')
+bot.run('mytoken')
